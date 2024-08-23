@@ -1,0 +1,382 @@
+@media (min-width: 375px) and (max-width: 576px) { 
+    #banner .banner-text h1 {
+        font-size: 32px;
+        line-height: 44px;
+        padding-bottom: 2px;
+    }
+    #banner .banner-text p {
+        font-size: 15px;
+        line-height: 27px;
+        padding-bottom: 13px;
+    }
+    #banner .banner-text h2 {
+        font-size: 40px;
+        line-height: 25px;
+        padding-bottom: 2px;
+    }
+    .ban_tex h2 {
+        font-size: 15px;
+        letter-spacing: 9px;
+        padding-bottom: 36px;
+    }
+    #banner .banner-text {
+        margin: 25px 0px 50px 0px;
+        padding: 0px 0px 0px 13px;
+    }
+    #banner .banner-text .ban-btn a {
+        padding: 13px 10px;
+        font-size: 12px;
+    }
+    #banner .banbg3 {
+        display: none;
+    }
+    #banner .banbg2 {
+        display:none;
+    }
+    #about {
+        margin-top: 7px;
+    }
+
+    /* About Section */
+    #about .about_titel h2 {
+        margin-top: 26px;
+    }
+    #about .about_titel p {
+        font-size: 14px;
+        padding-bottom: 3px !important;
+    }
+    .about_bottom {
+        margin-bottom: 34px;
+        
+    }
+     /* What section */
+     #what .whtat_title h2 {
+        margin-top: 20px;
+        padding-bottom: 1px;
+    }
+
+    /* Resume Section */
+    #resume .resume_title h2 {
+        padding: 36px 0px 28px 0px;
+        font-size: 29px;
+        line-height: 40px;
+    }
+    #resume .resume_box_text h3 {
+        font-size: 28px;
+        line-height: 36px;
+        padding-bottom: 10px;
+    }
+    #resume .resume_box_text h5 {
+        font-size: 16px !important;
+        line-height: 9px;
+    }
+    #resume .resume_box_text p {
+        font-size: 14px;
+        line-height: 26px;
+        padding: 0px 8px 14px 0px;
+    }
+    #resume .btn3 {
+        padding: 22px 0px 39px 0px;
+    }
+    #resume .btn3 a {
+        padding: 10px 16px;
+        font-size: 16px;
+    }
+}
+ /* Small devices (landscape phones, 576px and up) */
+ @media (min-width: 576px) and (max-width: 768px) { 
+    #banner .banner-text h1 {
+        font-size: 32px;
+        line-height: 44px;
+        padding-bottom: 2px;
+    }
+    #banner .banner-text p {
+        font-size: 15px;
+        line-height: 27px;
+        padding-bottom: 13px;
+    }
+    #banner .banner-text h2 {
+        font-size: 40px;
+        line-height: 25px;
+        padding-bottom: 2px;
+    }
+    .ban_tex h2 {
+        font-size: 30px;
+        letter-spacing: 14px;
+        padding-bottom: 38px; 
+    }
+    #banner .banner-text {
+        margin: 60px 0px 125px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+    #banner .banner-text .ban-btn a {
+        padding: 13px 10px;
+        font-size: 12px;
+    }
+    #banner .banbg3 {
+        display: none;
+    }
+    #banner .banbg2 {
+        display:none;
+    }
+
+      /* About Section */
+      #about .about_titel h2 {
+        margin-top: 26px;
+    }
+    #about .about_titel p {
+        font-size: 14px;
+        padding-bottom: 3px !important;
+    }
+    .about_bottom {
+        margin-bottom: 34px;
+    }
+    #about {
+        margin-top: 10px;
+        background-color: #FFF8F3;
+    }
+     /* What section */
+     #what .whtat_title h2 {
+        margin-top: 20px;
+        padding-bottom: 1px;
+    }
+
+      /* Resume Section */
+      #resume .resume_title h2 {
+        padding: 36px 0px 28px 0px;
+        font-size: 29px;
+        line-height: 40px;
+    }
+    #resume .resume_box_text p {
+        font-size: 14px;
+        line-height: 26px;
+        padding: 0px 8px 14px 0px;
+    }
+    
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 992px){
+    #banner .banbg3 {
+        display: inline-block;
+        position: absolute;
+        top: 27px;
+        right: -282px;
+    }
+
+    #banner .bannerimg{
+        width:40%;
+    }
+    #banner .banbg2 {
+        display:block;
+        position: absolute;
+        top: 198px;
+        right: 0px;
+    }
+    #banner .banner-text h1 {
+        font-size: 32px;
+        line-height: 44px;
+        padding-bottom: 2px;
+    }
+    #banner .banner-text p {
+        font-size: 15px;
+        line-height: 27px;
+        padding-bottom: 13px;
+    }
+    #banner .banner-text h2 {
+        font-size: 40px;
+        line-height: 25px;
+        padding-bottom: 2px;
+    }
+    .ban_tex h2 {
+        font-size: 21px;
+        letter-spacing: 11px;
+        padding-bottom: 38px;
+    }
+    #banner .banner-text {
+        margin: 60px 0px 125px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+    #banner .banner-text .ban-btn a {
+        padding: 13px 10px;
+        font-size: 12px;
+    }
+    #banner .banbg2 {
+        display:none;
+    }
+
+      /* About Section */
+      #about .about_titel h2 {
+        margin-top: 26px;
+    }
+    #about .about_titel p {
+        font-size: 16px;
+        padding-bottom: 3px !important;
+    }
+    .about_bottom {
+        margin-bottom: 34px;
+    }
+    #about {
+        margin-top: 10px;
+    }
+     /* What section */
+     #what .whtat_title h2 {
+        margin-top: 20px;
+        padding-bottom: 1px;
+    }
+}
+
+ /* Large devices (desktops, 992px and up) */
+ @media (min-width: 992px) and (max-width: 1024px) {
+    #banner .banbg3 {
+        display: inline-block;
+        position: absolute;
+        top: 27px;
+        right: -159px;
+    }
+
+    #banner .bannerimg{
+        width:60%;
+    } #banner .groupimg{
+        width:60%;
+    }
+    #banner .banner-text h1 {
+        font-size: 77px;
+        line-height: 97px;
+        padding-bottom: 9px;
+    }
+    #banner .banner-text p {
+        font-size: 20px;
+        line-height: 36px;
+        padding-bottom: 22px;
+    }
+    #banner .banner-text h2 {
+        font-size: 40px;
+        line-height: 25px;
+        padding-bottom: 2px;
+    }
+    .ban_tex h2 {
+        font-size: 30px;
+        letter-spacing: 14px;
+        padding-bottom: 38px; 
+    }
+    #banner .banner-text {
+        margin: 60px 0px 125px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+    #banner .banner-text .ban-btn a {
+        padding: 15px 29px;
+        font-size: 18px;
+    }
+
+    #banner .banbg2 {
+        display:none;
+    }
+      /* About Section */
+      #about .about_titel h2 {
+        margin-top: 26px;
+    }
+    #about .about_titel p {
+        font-size: 20px;
+        padding-bottom: 3px !important;
+    }
+    .about_bottom {
+        margin-bottom: 34px;
+    }
+    #about .about_bottom h2 {
+        font-size: 14px !important;
+        line-height: 21px;
+      
+    }
+    #about {
+        margin-top: 10px;
+    }
+
+     /* What section */
+     #what .whtat_title h2 {
+        margin-top: 20px;
+        padding-bottom: 1px;
+    }
+    
+ }
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1024px) and (max-width: 1500px) { 
+    #banner .banbg3 {
+        display: inline-block;
+        position: absolute;
+        top: 27px;
+        right: -159px;
+    }
+
+    #banner .bannerimg{
+        width:60%;
+    }
+    #banner .banner-text h1 {
+        font-size: 77px;
+        line-height: 97px;
+        padding-bottom: 9px;
+    }
+    #banner .banner-text p {
+        font-size: 20px;
+        line-height: 36px;
+        padding-bottom: 22px;
+    }
+    #banner .banner-text h2 {
+        font-size: 40px;
+        line-height: 25px;
+        padding-bottom: 2px;
+    }
+    .ban_tex h2 {
+        font-size: 30px;
+        letter-spacing: 14px;
+        padding-bottom: 38px; 
+    }
+    #banner .banner-text {
+        margin: 60px 0px 125px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+    #banner .banner-text .ban-btn a {
+        padding: 15px 29px;
+        font-size: 18px;
+    }
+    #banner .banbg2 {
+        display:block;
+        position: absolute;
+        top: 198px;
+        right: 0px;
+    }
+    #banner .banbg2 {
+        display:none;
+    }
+      /* About Section */
+      #about .about_titel h2 {
+        margin-top: 26px;
+    }
+    #about .about_titel p {
+        font-size: 24px;
+        padding-bottom: 3px !important;
+    }
+    .about_bottom {
+        margin-bottom: 34px;
+    }
+    #about .about_bottom h2 {
+        font-size: 14px !important;
+        line-height: 21px;
+      
+    }
+    #about {
+        margin-top: 10px;
+    }
+
+    /* What section */
+    #what .whtat_title h2 {
+        margin-top: 20px;
+        padding-bottom: 1px;
+    }
+ }
+
+ /* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {
+
+ }
