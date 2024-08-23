@@ -82,6 +82,15 @@
         padding: 10px 16px;
         font-size: 16px;
     }
+    textarea {
+        width: 377px;
+    }
+    input[type="text"] {
+        width: 385px;
+    }
+    .top_bottom {
+        padding: 24px 0px 27px 0px;
+    }
 }
  /* Small devices (landscape phones, 576px and up) */
  @media (min-width: 576px) and (max-width: 768px) { 
